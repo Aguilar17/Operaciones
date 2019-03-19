@@ -4,8 +4,9 @@
 // * División
 // * Multiplicación
 
+// Creando parche de difusión
 package operaciones;
-import java.util.logging.Logger;
+
 import operaciones.Multiplicacion;
 
 public class App_Multiplicacion extends javax.swing.JFrame {
